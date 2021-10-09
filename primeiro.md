@@ -15,3 +15,9 @@
 
 ## Código na linguagem C
 
+```c
+int main(void){
+    printf("Olá Emerson");
+    return 0;
+}
+```
