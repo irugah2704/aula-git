@@ -14,7 +14,7 @@
 
 ```c
 int main(void){
-    printf("Olá mundo");
+    printf("Olá Emerson");
     return 0;
 }
 ```
