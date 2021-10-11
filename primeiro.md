@@ -7,6 +7,7 @@
 - Trabalhando com lista de items
 - Inserindo trechos de código
 - Inserindo imagens
+- Inserindo check-lists
 
 ## Aprendendo ramos
 
